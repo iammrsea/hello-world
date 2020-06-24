@@ -18,5 +18,7 @@ The couple involved in the Murder/Suicide incident in Victory Park estate in Lek
 Spokesperson of the state police command, Bala Elkana who confirmed the incident said;
 “It is true. Homicide detectives have sealed up the place. They have commenced investigation. The corpse of the man and the woman have been moved to the hospital for an autopsy.
 
+![image](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg)
+
 Two kitchen knives were found there and two bottles of Sniper. The woman had injuries from stabbing while foams were coming out of the man’s mouth who is suspected to have taken those Snipers.
     
