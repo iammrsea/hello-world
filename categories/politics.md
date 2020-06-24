@@ -1,5 +1,5 @@
 ---
-name: 'politics'
+name: politics
 tags:
   - come
   - go
