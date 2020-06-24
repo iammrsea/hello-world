@@ -4,10 +4,10 @@ cover: undefined
 date: 2020-06-25
 author: jon doe
 tags:
-  -one
-  -programming
-  -running
+   - one
+   - programming
+   - running
 summary: >
-	ldieieieieiied eiieieiiie ieieieieie
+ ldieieieieiied eiieieiiie ieieieieie
 ---
 uiopruiodjkldhodjdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkdkd
