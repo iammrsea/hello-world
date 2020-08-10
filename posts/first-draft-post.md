@@ -1,13 +1,13 @@
 ---
-title: First draft post!!!
+title: Updated First draft post!!!
 status: draft
 tags: 
  - one
  - programming
  - running
-author: mike doe
+author: hank vogt
 date: 2020-06-25
-category: Love
+category: Education
 summary: >
  This is the summary of the post
 ---
